@@ -1,0 +1,13 @@
+BLACK VIDEIRA 12.12 — SITE EDITÁVEL
+
+O vídeo anterior foi DESATIVADO porque não era o trecho correto. Para colocar o vídeo certo, copie seu MP4 para a pasta midia com nome video-culto.mp4 e em conteudo.js troque videoAmbiente: "" por videoAmbiente: "midia/video-culto.mp4".
+
+A trilha instrumental ORIGINAL já está em midia/trilha-original.mp3 e toca DENTRO DO SITE após tocar em Ativar som (navegadores de celular exigem toque). Não é uma gravação de hino conhecido. Você pode substituir por uma gravação de hino com licença de uso.
+
+Para adicionar o vídeo do pastor, copie-o como midia/convite-pastor.mp4 e troque videoPastor: "" por videoPastor: "midia/convite-pastor.mp4".
+
+Para editar data, textos, Instagram, cores e mídia: conteudo.js (cores em estilo.css).
+
+PUBLICAÇÃO GRATUITA: GitHub Pages. Envie o conteúdo da pasta (index.html, estilo.css, conteudo.js, script.js e midia/) para um repositório público, habilite Settings > Pages > Deploy from branch > main / root. O link gerado abre no Safari. Atenção: os arquivos ficarão públicos.
+
+Abra index.html no computador para prévia. No iPhone, teste a URL publicada: arquivos locais podem bloquear mídia.
