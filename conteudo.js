@@ -14,7 +14,7 @@ window.CONVITE = {
   convite: "Vai ser uma alegria ter você com a gente.",
   fotos: { entrada: "entrada.webp", culto: "culto.webp", comunhao: "culto.webp", louvor: "louvor.webp", pastor: "pastor1.webp" },
   videoAmbiente: "",
-  // Quando o pastor gravar, coloque o arquivo em convite-pastor.mp4 e troque a linha abaixo:
-  videoPastor: "",
+  // Vídeo final com o grupo de louvor:
+  videoPastor: "grupo-louvor.mp4",
   trilha: "trilha-original.mp3"
 };
